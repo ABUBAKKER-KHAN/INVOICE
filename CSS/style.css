@@ -1,0 +1,31 @@
+body{
+   margin: 0;  font-family: Century Gothic;
+
+border-bottom: 1px solid black;
+}
+th{
+color:#c0c0c0;
+
+}
+
+.invoice{
+  color: white;
+
+
+}
+.mid{
+padding-left: 350px;
+}
+.end{
+padding-left: 500px;
+}
+.bill{
+font-weight: bold;
+text-align:left;
+
+}
+hr{
+  border: 2px solid #960018;
+  margin-left: 20px;
+  margin-right: 20px;
+}
